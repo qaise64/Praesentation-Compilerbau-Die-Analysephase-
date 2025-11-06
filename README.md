@@ -1,6 +1,6 @@
 # Praesentation: Compilerbau (Die Analysephase)
 
-Hallo! Diese Praesentation habe ich im Oktober 2025 (zusammen mit einem Kommilitonen) fuer unser Modul 'Compilerbau' an der Hochschule Niederrhein gehalten.
+Hallo! Diese Praesentation habe ich im Oktober 2025 (zusammen mit einem Kommilitonen) fuer unser Seminar + Projekt 'Compilerbau' an der Hochschule Niederrhein gehalten.
 
 ## Worum ging es?
 
